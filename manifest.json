@@ -1,9 +1,13 @@
 {
   "name": "Pulsing Clinic Map",
+  "organization": "halloigi",
   "description": "Custom Leaflet map with pulsing clinic markers",
+  "logoUrl": "https://halloigi.github.io/diahmaps/icon.png",
   "components": [
     {
       "id": "pulsing_map",
+      "name": "Pulsing Map",
+      "description": "Map with animated pulsing markers",
       "resource": {
         "js": [
           "https://unpkg.com/leaflet/dist/leaflet.js",
